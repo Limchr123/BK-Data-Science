@@ -1,2 +1,2 @@
 # BK-Data-Science
-Tugas 1 BK
+Tugas Minggu 1 & 2 
